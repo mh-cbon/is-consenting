@@ -1,6 +1,6 @@
 {
   "name": "@mh-cbon/is-consenting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tells if consent.exe (uac) is running.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,9 @@
     "public": "npm publish --access=public"
   },
   "keywords": [
-    "consent", "uac", "windows"
+    "consent",
+    "uac",
+    "windows"
   ],
   "author": "mh-cbon <mh-cbon@users.noreply.github.com>",
   "license": "MIT",
