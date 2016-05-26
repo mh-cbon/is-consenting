@@ -1,0 +1,23 @@
+{"pid":1,"name":"systemd","cmd":"/usr/lib/systemd/systemd --switched-root --system --deserialize 21"}
+{"pid":2,"name":"kthreadd","cmd":"[kthreadd]"}
+{"pid":3,"name":"0","cmd":"[ksoftirqd/0]"}
+{"pid":5,"name":"0:0H","cmd":"[kworker/0:0H]"}
+{"pid":7,"name":"rcu_sched","cmd":"[rcu_sched]"}
+{"pid":8,"name":"rcu_bh","cmd":"[rcu_bh]"}
+{"pid":9,"name":"0","cmd":"[rcuos/0]"}
+{"pid":10,"name":"0","cmd":"[rcuob/0]"}
+{"pid":11,"name":"0","cmd":"[migration/0]"}
+{"pid":12,"name":"0","cmd":"[watchdog/0]"}
+{"pid":13,"name":"1","cmd":"[watchdog/1]"}
+{"pid":14,"name":"1","cmd":"[migration/1]"}
+{"pid":15,"name":"1","cmd":"[ksoftirqd/1]"}
+{"pid":17,"name":"1:0H","cmd":"[kworker/1:0H]"}
+{"pid":18,"name":"1","cmd":"[rcuos/1]"}
+{"pid":19,"name":"1","cmd":"[rcuob/1]"}
+{"pid":20,"name":"2","cmd":"[watchdog/2]"}
+{"pid":21,"name":"2","cmd":"[migration/2]"}
+{"pid":22,"name":"2","cmd":"[ksoftirqd/2]"}
+{"pid":24,"name":"2:0H","cmd":"[kworker/2:0H]"}
+{"pid":25,"name":"2","cmd":"[rcuos/2]"}
+{"pid":26,"name":"2","cmd":"[rcuob/2]"}
+{"end":true}
